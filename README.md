@@ -1,7 +1,7 @@
 # WuYeSys
 基于java SpringBoot框架的小区物业设计，后台管理和用户前台
 
-演示视频链接：https://live.csdn.net/v/187216
+演示视频链接：https://www.bilibili.com/video/BV1ra411h7j4/
 
 
 详询 微信1：egvh56ufy7hh ，微信2：dabocode  。承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
